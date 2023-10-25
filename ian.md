@@ -24,3 +24,4 @@ En los últimos años, el Real Madrid ha ganado los siguientes títulos importan
 - Supercopa de España: 2020
 - Liga de Campeones UEFA: 2017-2018
 
+![Cristiano Ronaldo](https://www.directvsports.com/__export/1691602384970/sites/dsports/img/2023/08/09/cristiano.jpg_2048551729.jpg)
