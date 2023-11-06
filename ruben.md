@@ -14,7 +14,7 @@ Algunos de los jugadores legendarios que han vestido la camiseta del FC Barcelon
 - [Xavi Hernández](https://es.wikipedia.org/wiki/Xavi_Hern%C3%A1ndez)
 - [Andrés Iniesta](https://es.wikipedia.org/wiki/Andr%C3%A9s_Iniesta)
 
-![Escudo del FC Barcelona](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/FC_Barcelona_%28crest%29.svg/200px-FC_Barcelona_%28crest%29.svg.png)
+![Escudo del FC Barcelona](./images/descarga.png)
 
 ## Estadio
 
@@ -55,3 +55,5 @@ El FC Barcelona juega sus partidos en el **Camp Nou**, uno de los estadios más 
 | 2017-2018  | Supercopa de España                  |
 | 2020-2021  | Copa del Rey                         |
 | 2020-2021  | Supercopa de España                  |
+
+[Volver a la pagina principal](./readme.md)
